@@ -18,7 +18,7 @@ To run the program on a given address or address range and scan given port or po
 ### Sample usage and output
 The screenshot shows sample use of the programs fingerprinting ability and output formatting on a different version of SSH.
 
-
+![sample progr. usage](/sample_usage.png "Sample use of the programm on a different version of SSH.")
 
 ### Resources
 
